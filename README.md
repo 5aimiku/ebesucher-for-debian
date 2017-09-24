@@ -10,3 +10,4 @@ wget https://raw.githubusercontent.com/5aimiku/ebesucher/master/eBesucher.sh;sh 
 
 特性：
 重启机器自动重启桌面和firefox，修改firefox即可全自动挂机
+如果安装好后连入VNC发现一片灰色，请关掉然后泡一杯咖啡耐心等待3分钟，如果还不行，reboot
